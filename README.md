@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning ###
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamad)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mamadhub)](https://github.com/anuraghazra/github-readme-stats)
