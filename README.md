@@ -17,8 +17,8 @@ I'm a passionate [...] 🚀 based in [Birjand] 🌍. Welcome to my creative corn
 
 ## Let's Connect 🌐
 
-LinkedIn:<br/> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadgohari/)
-Telegram:<br/> [![Telegram](https://img.shields.io/badge/-Telegram-0077B5?style=flat&logo=telegram&logoColor=white)](https://t.me/mamamamad)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadgohari/)
+[![Telegram](https://img.shields.io/badge/-Telegram-0077B5?style=flat&logo=telegram&logoColor=white)](https://t.me/mamamamad)
 
 ## Thanks for Visiting! 🙌
 
