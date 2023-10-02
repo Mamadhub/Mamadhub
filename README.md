@@ -1,39 +1,24 @@
-- 👋 Hi, I’m @Mamad
-- 👀 I’m interested in code
-- 🌱 I’m currently learning ###
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mamadhub&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 
-<!-- Title -->
-# Hi there, I'm [Your Name] 👋
 
-<!-- Introduction -->
-I'm a passionate [Your Job Title/Role] 🚀 based in [Your Location] 🌍. Welcome to my creative corner on GitHub!
+# Hi there, I'm MAMAD 👋
 
-<!-- GitHub Stats -->
-![GitHub Followers](https://img.shields.io/github/followers/YourUsername?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/YourUsername/YourRepository?style=social)
-![GitHub Orgs](https://img.shields.io/github/followers/YourOrganization?label=Organization&style=social)
 
-<!-- About Me -->
+I'm a passionate [...] 🚀 based in [Birjand] 🌍. Welcome to my creative corner on GitHub!
+
 ## About Me 📚
 
-🌱 Exploring the tech world, one line of code at a time.  
-🚀 Turning caffeine into code.  
-🎨 Love for design, pixels, and coffee.  
+🌱 Exploring the tech world, one line of code at a time.    
+🎨 Love for Linux  
 🔭 On a mission to explore new technologies.  
 
-<!-- My Toolbox -->
 ## My Toolbox 🧰
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Python Version](https://img.shields.io/pypi/pyversions/:packageName)
 
 <!-- My Projects -->
 ## My Projects 🚀
