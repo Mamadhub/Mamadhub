@@ -1,10 +1,4 @@
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mamadhub&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br/>
-
-
-
 # Hi there, I'm MAMAD 👋
-
 
 I'm a passionate [...] 🚀 based in [Birjand] 🌍. Welcome to my creative corner on GitHub!
 
@@ -16,16 +10,16 @@ I'm a passionate [...] 🚀 based in [Birjand] 🌍. Welcome to my creative corn
 
 ## My Toolbox 🧰
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mamadhub&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br/>
+
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 
 ## Let's Connect 🌐
 
-LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](Link to LinkedIn)
-LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=telegram&logoColor=white)](Link to LinkedIn)
+LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-gohari/)
+LinkedIn: [![Telegram](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=telegram&logoColor=white)](https://t.me/mamamamad)
 
-
-<!-- Footer -->
 ## Thanks for Visiting! 🙌
 
 Thank you for exploring my creative corner on GitHub. If you have any ideas, projects, or just want to chat, feel free to reach out. Let's connect and create something amazing together! 🚀✨
